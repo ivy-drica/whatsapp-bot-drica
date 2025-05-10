@@ -1,0 +1,15 @@
+{
+  "name": "drica-ripilica-bot",
+  "version": "1.0.0",
+  "description": "Bot de atendimento automático da Drica Ripilica Sex Store",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Drica Ripilica",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.27.0"
+  }
+}
